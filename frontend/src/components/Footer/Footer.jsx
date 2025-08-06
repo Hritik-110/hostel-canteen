@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
             <img 
-              src={assets.pol}
+              src={assets.logo}
               alt="Canteen logo featuring a stylized food symbol, representing a welcoming and home-like dining experience" 
             />
             <p>Established in 2015, our canteen has been serving as the culinary backbone of our hostel community. We understand that being away from home can be challenging, which is why we strive to create meals that remind you of home while introducing you to new flavors and experiences.

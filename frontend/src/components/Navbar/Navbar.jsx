@@ -73,7 +73,7 @@ const Navbar = ({ setShowLogin }) => {
           <Link to="/" className="navbar-logo">
             <img 
               className="logo-img" 
-              src={assets.im14} 
+              src={assets.logo} 
               alt="Logo" 
             />
           </Link>

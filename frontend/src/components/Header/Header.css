@@ -1,7 +1,7 @@
 .header{
     height: 55vw;
     margin: 60px auto;
-    background: url('C:\Users\HP\Downloads\food-del\frontend\src\assets\ba1.avif') no-repeat;
+    background: url('../../assets/ba1.avif') no-repeat;
     background-size:contain;
     position: relative;
 }
